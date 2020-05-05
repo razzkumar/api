@@ -1,0 +1,18 @@
+[
+  {
+    "projects": [
+      {
+        "title": "anime recomender",
+        "year": "2020",
+        "data": "data.csv",
+        "id": 1
+      },
+      {
+        "title": "Life partner recomender",
+        "year": "2020",
+        "data": "data.csv",
+        "id": 2
+      }
+    ]
+  }
+]
